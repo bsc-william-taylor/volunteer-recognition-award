@@ -1,5 +1,5 @@
 
-<img align='center' src='http://www.uws.ac.uk/uploadedimages/fixed_pages/news/hnm/logo.jpg?n=7285&w=456' />
+<img src='images/logo.png' />
 
 # UWS Volunteer Recognition Award
 
