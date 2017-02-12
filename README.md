@@ -9,4 +9,4 @@ This is just the repository I used for my documents required for the volunteerin
 * Volunteer Report
 * Activity Review
 
-Upon submission I recieved the Volunteer Award with Leadership.
+Upon submission I received the Volunteer Award with Leadership.
