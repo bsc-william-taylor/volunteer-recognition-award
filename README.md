@@ -1,7 +1,7 @@
 
 <img src='images/logo.png' />
 
-<img src='logo.png' width='150' height='150' align='right' />
+<img src='icon.png' width='150' height='150' align='right' />
 
 ##UWS Volunteer Recognition Award
 
